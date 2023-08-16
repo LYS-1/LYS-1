@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYS-1&show_icons=true&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LYS-1&theme=dark&hide_border=false)<br>
