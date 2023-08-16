@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYS-1&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tmdmini99&theme=dark&hide_border=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LYS-1&theme=dark&hide_border=false)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYS-1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
